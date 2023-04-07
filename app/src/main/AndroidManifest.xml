@@ -12,7 +12,7 @@
         android:theme="@style/Theme.GOSOPTAndroid"
         tools:targetApi="31">
         <activity
-            android:name=".ProfileActivity"
+            android:name=".external.view.ProfileActivity"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"

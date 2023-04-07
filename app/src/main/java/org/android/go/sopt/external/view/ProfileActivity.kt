@@ -19,7 +19,7 @@ class ProfileActivity : AppCompatActivity() {
     }
 
     private fun viewSetUp() {
-        setContentView(R.layout.activity_profile)
+        setContentView(binding.root)
 
         val signUpUser = intent.getSerializableExtra(SIGN_UP_USER) as SignUpUser
 
