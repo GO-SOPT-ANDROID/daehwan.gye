@@ -1,4 +1,4 @@
-package org.android.go.sopt.external.view
+package org.android.go.sopt.external
 
 import android.content.Intent
 import android.os.Bundle

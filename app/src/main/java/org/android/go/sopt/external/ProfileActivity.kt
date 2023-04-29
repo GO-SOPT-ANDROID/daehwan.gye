@@ -1,10 +1,9 @@
-package org.android.go.sopt.external.view
+package org.android.go.sopt.external
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import org.android.go.sopt.R
 import org.android.go.sopt.databinding.ActivityProfileBinding
-import org.android.go.sopt.external.view.SignUpActivity.Companion.SIGN_UP_USER
+import org.android.go.sopt.external.SignUpActivity.Companion.SIGN_UP_USER
 import org.android.go.sopt.internal.signup.SignUpUser
 import org.android.go.sopt.plus
 
